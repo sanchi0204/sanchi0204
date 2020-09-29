@@ -1,11 +1,13 @@
 # Sanchi Rastogi 👨‍💻
 
-[![Twitter Badge](https://img.shields.io/badge/@kotwani_dheeraj-30302f?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kotwani_dheeraj)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-SanchiRastogi1-blue)
 [![Linkedin Badge](https://img.shields.io/badge/dheerajkotwani-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/dheerajkotwani/)
 [![Medium Badge](https://img.shields.io/badge/dheeraj.kotwani41-30302f?style=flat&logo=medium)](https://medium.com/@dheeraj.kotwani41)
-[![Gmail Badge](https://img.shields.io/badge/dheeraj.kotwani41@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:dheeraj.kotwani41@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-sanchirastogi02%40gmail.com-red)
 ![](https://visitor-badge.glitch.me/badge?page_id=dheerajkotwani.dheerajkotwani)  
-
+[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
+[![GitHub followers](https://img.shields.io/github/followers/sanchi0204?label=Followers)
+[![GitHub Stars](https://img.shields.io/github/stars/sanchi0204)
 
 ## Hi there 👋,           
 #### I'm Sanchi Rastogi, Student at 👨‍💻 KIET Group of Institutions,  Pursuing B.Tech.  I am an Open Source Enthusiast and I love to build Android Application. Currently focusing on Data Structures and Algorithms.  
