@@ -13,9 +13,9 @@
 - 🎨 In my free time, you'll find me listening music 🎵 or introspecting 💭.
 - ⚡ Fun fact: I usually like coding at nights! 💻 
 
-## Connect with me  
-&nbsp <a href="https://twitter.com/SanchiRastogi1">
-         <img alt="gif" src="https://github.com/sanchi0204/sanchi0204/blob/master/3120-twitter.gif"
+## Know more about Me:
+
+Connect with Me   <a href="https://twitter.com/SanchiRastogi1"> <img alt="gif" src="https://github.com/sanchi0204/sanchi0204/blob/master/3120-twitter.gif"
          width=50" height="50">
                               </a>&nbsp
 <a href="https://www.linkedin.com/in/sanchirastogi/">
