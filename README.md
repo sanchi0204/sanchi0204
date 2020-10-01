@@ -35,15 +35,15 @@
 ### Connect with me:
 
 <a href="https://twitter.com/SanchiRastogi1">
-         <img alt="Qries" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"
+         <img alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"
          width=30" height="30">
                               </a>&nbsp
 <a href="https://www.linkedin.com/in/sanchirastogi/">
-         <img alt="Qries" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
+         <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
          width=30" height="30">
   </a>&nbsp
-<a href="https://twitter.com/SanchiRastogi1">
-         <img alt="Qries" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"
+<a href="sanchirastogi02@gmail.com">
+         <img alt="Mail" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gmail.svg"
          width=30" height="30">
                               </a>
 
