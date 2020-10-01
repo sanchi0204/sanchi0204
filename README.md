@@ -29,9 +29,6 @@
 - 📫 How to reach me: mail me at [sanchirastogi02@gmail.com](mailto:sanchirastogi02@gmail.com)
 - ⚡ Fun fact: I usually like coding at nights! 
 
-
-<br>
-
 ### Connect with me:
 
 <a href="https://twitter.com/SanchiRastogi1">
