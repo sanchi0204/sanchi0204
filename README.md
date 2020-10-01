@@ -3,8 +3,8 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">      
 #### I'm Sanchi Rastogi, Student at 👨‍💻 KIET Group of Institutions,  Pursuing B.Tech.  I am an Open Source Enthusiast and I love to build Android Application. Currently focusing on Data Structures and Algorithms.  
 
-<a href="https://www.vecteezy.com/free-vector/office">Office Vectors by Vecteezy
-<img align="right" src="" width="400px" /></a>
+
+<img align="right" alt= "Gif" src="https://github.com/sanchi0204/sanchi0204/blob/master/30350-android-logo.gif" width="400px" />
 
 ## 🧐 About
 - 🏄‍ Android Developer who loves to build Applications 📱.
