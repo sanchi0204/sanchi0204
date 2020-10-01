@@ -3,7 +3,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">      
 #### I'm Sanchi Rastogi, Student at 👨‍💻 KIET Group of Institutions,  Pursuing B.Tech.  I am an Open Source Enthusiast and I love to build Android Application. Currently focusing on Data Structures and Algorithms.  
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
+<img align="right" alt="GIF" src="https://lottiefiles.com/30350-android-logo#" width="400px" />
 
 ## 🧐 About
 - 🏄‍ Android Developer who loves to build Applications 📱.
