@@ -16,7 +16,7 @@
 ## Connect with me:
 
 <a href="https://twitter.com/SanchiRastogi1">
-         <img alt="gif" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"
+         <img alt="gif" src="https://github.com/sanchi0204/sanchi0204/blob/master/3120-twitter.gif"
          width=30" height="30">
                               </a>&nbsp
 <a href="https://www.linkedin.com/in/sanchirastogi/">
