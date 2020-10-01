@@ -20,7 +20,7 @@
          width=30" height="30">
                               </a>&nbsp
 <a href="https://www.linkedin.com/in/sanchirastogi/">
-         <img alt="gif" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
+         <img alt="gif" src="https://github.com/sanchi0204/sanchi0204/blob/master/16418-linkedin-icon.gif"
          width=30" height="30">
   </a>&nbsp
 <a href="sanchirastogi02@gmail.com">
