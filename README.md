@@ -14,7 +14,7 @@
 
 ## 📬 Reach Me 
 <a href="https://twitter.com/SanchiRastogi1"> 
-         <img align="left" src="https://github.com/sanchi0204/sanchi0204/blob/master/icons8-twitter-48.png" width="50" height="50"/>Twitter</a> 
+         <img align="above" src="https://github.com/sanchi0204/sanchi0204/blob/master/icons8-twitter-48.png" width="50" height="50"/>Twitter</a> 
                            &nbsp 
    <a href="https://www.linkedin.com/in/sanchirastogi/">
     <img alt="gif" src="https://github.com/sanchi0204/sanchi0204/blob/master/icons8-linkedin-48.png" width="50" height="50"/>
