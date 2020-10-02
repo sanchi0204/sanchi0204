@@ -1,17 +1,15 @@
-# Sanchi Rastogi 👨‍💻
-
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">      
-#### I'm Sanchi Rastogi, Student at 👨‍💻 KIET Group of Institutions,  Pursuing B.Tech.  I am an Open Source Enthusiast and I love to build Android Application. Currently focusing on Data Structures and Algorithms.  
+#### I'm Sanchi Rastogi, Student at 👨‍ KIET Group of Institutions,  Pursuing B.Tech.  I am an Open Source Enthusiast and I love to build Android Application. Currently focusing on Data Structures and Algorithms.  
 
 
 <img align="right" alt= "Gif" src="https://github.com/sanchi0204/sanchi0204/blob/master/30350-android-logo.gif" width="400px" />
 
 ## 🧐 About
-- 🏄‍ Android Developer who loves to build Applications 📱.
-- 😄 I have started with open source contributions ❤️.
-- 🤔 I’m looking for help in Competitive Programming 💾.
+- 📱. Android Developer who loves to build Applications 
+- ❤️. I have started with open source contributions 
+- 💻 I’m looking for help in Competitive Programming
 - 🎨 In my free time, you'll find me listening music 🎵 or introspecting 💭.
-- ⚡ Fun fact: I usually like coding at nights! 💻 
+- ⚡ Fun fact: I usually like coding at nights 🌙 
 
 ## 💬 Know more about me
 
