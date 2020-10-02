@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I usually like coding at nights 🌙 
 
 ## 📊 GitHub Stats
-[![Sanchi's github stats](https://github-readme-stats.vercel.app/api?username=sanchi0204)](https://github.com/sanchi0204?tab=repositories)
+[![Sanchi's github stats](https://github-readme-stats.vercel.app/api?username=sanchi0204&show_icons=true&count_private=true&hide=stars)](https://github.com/sanchi0204?tab=repositories)
 
 ## 📬 Reach Me | 💬 Know Me
 <a href="https://twitter.com/SanchiRastogi1"> 
