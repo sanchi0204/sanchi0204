@@ -10,7 +10,7 @@
 - 🎨 In my free time, you'll find me listening music 🎵 or introspecting 💭.
 - ⚡ Fun fact: I usually like coding at nights 🌙 
 
-## 📬 Reach Me / 💬 Know Me
+## 📬 Reach Me | 💬 Know Me
 <a href="https://twitter.com/SanchiRastogi1"> 
          <img  src="https://github.com/sanchi0204/sanchi0204/blob/master/icons8-twitter-48.png" width="50" height="50"/>
 </a>&nbsp 
