@@ -7,7 +7,7 @@
 - 📱. Android Developer who loves to build Applications 
 - ❤️. I have started with open source contributions 
 - 💻 I’m looking for help in Competitive Programming
-- 🎨 In my free time, you'll find me listening music 🎵 or introspecting 💭.
+- 🎨 In my free time, you'll find me listening music 🎵 or introspecting💭
 - ⚡ Fun fact: I usually like coding at nights 🌙 
 
 ## 📊 GitHub Stats
