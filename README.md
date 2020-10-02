@@ -22,6 +22,9 @@
   <a href="https://linktr.ee/Sanchi_Rastogi">
     <img alt="gif" src="https://github.com/sanchi0204/sanchi0204/blob/master/icons8-linktree-48.png" width=50" height="50"/>
   </a>&nbsp
+   <a href="mailto:sanchirastogi02@gmail.com"">
+    <img alt="gif" src="https://github.com/sanchi0204/sanchi0204/blob/master/icons8-gmail-48.png" width=50" height="50"/>
+  </a>&nbsp                                                                                                                   
 
 ## Languages and Tools
 
