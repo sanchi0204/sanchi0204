@@ -14,10 +14,13 @@
 
 ## 📬 Reach Me 
 <a href="https://twitter.com/SanchiRastogi1"> 
-         <img alt="gif" src="https://github.com/sanchi0204/sanchi0204/blob/master/3120-twitter.gif" width=50" height="50"/></a> 
+         <img alt="gif" src="https://github.com/sanchi0204/sanchi0204/blob/master/icons8-twitter-48.png" width=50" height="50"/></a> 
                            &nbsp 
    <a href="https://www.linkedin.com/in/sanchirastogi/">
-    <img alt="gif" src="https://github.com/sanchi0204/sanchi0204/blob/master/16418-linkedin-icon.gif" width=50" height="50"/>
+    <img alt="gif" src="https://github.com/sanchi0204/sanchi0204/blob/master/icons8-linkedin-48.png" width=50" height="50"/>
+  </a>&nbsp
+  <a href="https://linktr.ee/Sanchi_Rastogi">
+    <img alt="gif" src="https://github.com/sanchi0204/sanchi0204/blob/master/icons8-linktree-48.png" width=50" height="50"/>
   </a>&nbsp
 
 ## Languages and Tools
