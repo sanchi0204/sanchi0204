@@ -9,7 +9,7 @@
 - 💻 I’m looking for help in Competitive Programming
 - 🎨 In my free time, you'll find me listening music 🎵 or introspecting
 - ⚡ Fun fact: I usually like coding at nights 🌙 
-
+<br><br>
 ## 📊 GitHub Stats
 [![Sanchi's github stats](https://github-readme-stats.vercel.app/api?username=sanchi0204&show_icons=true&count_private=true&hide=stars)](https://github.com/sanchi0204?tab=repositories)
 
