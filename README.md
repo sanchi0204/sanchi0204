@@ -19,15 +19,15 @@
    <a href="https://www.linkedin.com/in/sanchirastogi/">
     <img alt="gif" src="https://github.com/sanchi0204/sanchi0204/blob/master/icons8-linkedin-48.png" width="50" height="50"/>
   </a>&nbsp
-  <a href="https://linktr.ee/Sanchi_Rastogi">
-    <img alt="gif" src="https://github.com/sanchi0204/sanchi0204/blob/master/icons8-linktree-48.png" width="50" height="50"/>
-  </a>&nbsp
    <a href="mailto:sanchirastogi02@gmail.com"">
     <img alt="gif" src="https://github.com/sanchi0204/sanchi0204/blob/master/icons8-gmail-48.png" width="50" height="50"/>
   </a>&nbsp        
-  <a href="https://sourcerer.io">
-    <img src=https://user-images.githubusercontent.com/20287615/34189346-d426d4c2-e4ef-11e7-9da4-cc76a1ed111d.png alt="Sourcerer" width="50" height="50"/>
-  </a>
+  <a href="https://sourcerer.io/sanchi0204">
+    <img src=https://user-images.githubusercontent.com/20287615/34189346-d426d4c2-e4ef-11e7-9da4-cc76a1ed111d.png alt="Sourcerer" width="40" height="40"/>
+  </a>&nbsp
+           <a href="https://linktr.ee/Sanchi_Rastogi">
+    <img alt="gif" src="https://github.com/sanchi0204/sanchi0204/blob/master/icons8-linktree-48.png" width="50" height="50"/>
+  </a>&nbsp
 
 ## Languages and Tools
 
