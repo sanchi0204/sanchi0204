@@ -1,14 +1,14 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">    
-#### <p align="center">I'm Sanchi Rastogi 👧, a Junior, pursuing B.Tech in Computer Science 💻 at KIET Group of Institutions 🏫.</p>
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp; I'm Sanchi Rastogi 👧<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">    
+#### <p align="center">I'm a Junior, pursuing my Bachelor's in Technology in Computer Science from KIET Group of Institutions 🏫. </p>
 
 <img align="right"  src="https://github.com/sanchi0204/sanchi0204/blob/master/Picture1.png" width="400px"/>
 
 ## 🧐 About
-- 📱. Android Developer who loves to build Applications 
-- ❤️. I have started with open source contributions 
-- 💻 I’m looking for help in Competitive Programming
-- 🎨 In my free time, you'll find me listening music 🎵 or introspecting
-- ⚡ Fun fact: I usually like coding at nights 🌙 
+Android Developer 📱 , busy building Applications 
+I have started with open source ❤️ contributions 
+I’m looking for help in Competitive Programming 💻
+In my free time, you'll find me listening music 🎵 or introspecting
+Fun fact: I usually like coding at nights 🌙 
 <br><br>
 ## 📊 GitHub Stats
 [![Sanchi's github stats](https://github-readme-stats.vercel.app/api?username=sanchi0204&show_icons=true&count_private=true&hide=stars)](https://github.com/sanchi0204?tab=repositories)
