@@ -5,7 +5,7 @@
 * Android Developer 📱 , busy building Applications 
 * I have started with open source ❤️ contributions 
 * I’m looking for help in Competitive Programming 💻
-* In my free time, you'll find me listening music 🎵 or introspecting
+* You'll always find me with a laptop; if not writing code; then probably bing watching.
 * Fun fact: I usually like coding at nights 🌙 
 <br><br>
 ## 📊 GitHub Stats
@@ -30,7 +30,8 @@
 
 ## 📚 Languages and Tools
 
-<p align="center"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="50" height="50"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="50" height="50"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="Kotlin" width="50" height="50"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="50" height="50"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Android" width="50" height="50"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Firebase" width="50" height="50"/> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Android" width="50" height="50"/></p>
+<p align="center"><img src="https://img.icons8.com/fluent/48/000000/android-os.png" alt="Android" width="50" height="50"/> <img src=" https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50" height="50"/> <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="50" height="50"/>  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="50" height="50"/> <img 
+src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="50" height="50"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Android" width="50" height="50"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Firebase" width="50" height="50"/> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Android" width="50" height="50"/></p>
 
 
 
