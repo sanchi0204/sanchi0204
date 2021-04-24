@@ -1,6 +1,8 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  I'm Sanchi Rastogi 👧
 #### <p align="center">I'm a Junior, pursuing my Bachelor's of Technology in Computer Science from KIET Group of Institutions 🏫. </p>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanchi0204%2Fhit-counter&count_bg=%2346ABD9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## 🧐 About
 * Android Developer 📱 , busy building Applications 
 * I have started with open source ❤️ contributions 
