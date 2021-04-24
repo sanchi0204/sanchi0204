@@ -11,7 +11,7 @@
 ## 📊 GitHub Stats
 [![Sanchi's github stats](https://github-readme-stats.vercel.app/api?username=sanchi0204&show_icons=true&count_private=true&hide=stars)](https://github.com/sanchi0204?tab=repositories)
 
-## 📬 Reach Me | 💬 Know Me
+## 📬 Reach Me
 <a href="https://twitter.com/SanchiRastogi1"> 
          <img  src="https://github.com/sanchi0204/sanchi0204/blob/master/icons8-twitter-48.png" width="50" height="50"/>
 </a>&nbsp 
@@ -21,10 +21,7 @@
    <a href="mailto:sanchirastogi02@gmail.com"">
     <img src="https://github.com/sanchi0204/sanchi0204/blob/master/icons8-gmail-48.png" width="50" height="50"/> 
   </a>&nbsp        
-  <a href="https://sourcerer.io/sanchi0204">
-    <img src=https://user-images.githubusercontent.com/20287615/34189346-d426d4c2-e4ef-11e7-9da4-cc76a1ed111d.png alt="Sourcerer" width="40" height="40"/>
-  </a>&nbsp
-           <a href="https://linktr.ee/Sanchi_Rastogi">
+          <a href="https://linktr.ee/Sanchi_Rastogi">
     <img src="https://github.com/sanchi0204/sanchi0204/blob/master/icons8-linktree-48.png" width="50" height="50"/>
   </a>&nbsp
 
