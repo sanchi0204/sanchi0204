@@ -6,7 +6,7 @@
 * Android Developer 📱 , busy building Applications 
 * I have started with open source ❤️ contributions 
 * I’m looking for help in Competitive Programming 💻
-* You'll always find me with a laptop; if not writing code; then probably bing watching.
+* You'll always find me with a laptop; if not writing code; then probably binge watching.
 * Fun fact: I usually like coding at nights 🌙 
 <br><br>
 ## 📊 GitHub Stats
