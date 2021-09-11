@@ -1,5 +1,5 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  I'm Sanchi Rastogi 👧
-#### <p align="center">I'm a Junior, pursuing my Bachelor's of Technology in Computer Science from KIET Group of Institutions 🏫. </p>
+#### <p align="center">I'm a Senior, pursuing my Bachelor's of Technology in Computer Science from KIET Group of Institutions 🏫. </p>
 
 
 ## 🧐 About
